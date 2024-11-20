@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerna Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPrW6Y4T1nzJIVzBa9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANkTzdJXzhSUVE5eW5QUU5KOWlDSVhBBG5fcnNsdAMwBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE3BHF1ZXJ5A3Byb2dyYW1taW5nJTIwaW1hZ2UEdF9zdG1wAzE3MzIxMDg3MTI-?p=programming+image&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211IN714G0#id=11&iurl=https%3A%2F%2Fhwz.rokka.io%2Fwp-full%2Fd21ea572032084e0a80b258dd19338aeecbbc760%2Fgrafik-coding.jpg&action=click"
+
 
 - 🌱 I’m currently learning **React Native, MySQL , React.js Angular Vue.js**
 
